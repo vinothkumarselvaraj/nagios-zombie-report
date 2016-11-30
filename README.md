@@ -3,3 +3,5 @@ Bash script to send mail when ps list has more than 3 occurrence of nagios.cfg p
 
 # nagios-zombie-restart
 Bash script to restart the nagios service when ps list has more than 3 occurrences of nagios.cfg process
+
+#Don't forget to set cronjob 
